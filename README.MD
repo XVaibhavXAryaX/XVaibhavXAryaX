@@ -7,11 +7,7 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=XVaibhavXAryaX&theme=tokyonight" />
-
-
-
-
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=XVaibhavXAryaX&show_icons=true&theme=radical)
 
 ---
 
