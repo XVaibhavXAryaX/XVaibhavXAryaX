@@ -7,7 +7,8 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XVaibhavXAryaX&theme=aura-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=XVaibhavXAryaX&theme=default)](https://git.io/streak-stats)
+
 
 
 
