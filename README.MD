@@ -7,7 +7,7 @@
 
 ## 🔥 GitHub Streak
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=XVaibhavXAryaX&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=XVaibhavXAryaX&theme=aura-dark)](https://git.io/streak-stats)
 
 ---
 
