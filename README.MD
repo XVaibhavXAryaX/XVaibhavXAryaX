@@ -26,7 +26,7 @@
 ## 🧠 Currently Working On
 - YourCabs ML Project (Cancellation Prediction)
 - Portfolio Website (LOL-themed 🤖)
-- Improving DSA with Java + Leetcode
+- Improving DSA with Python + Leetcode
 
 ---
 
