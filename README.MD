@@ -33,6 +33,6 @@
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://XVaibhavXAryaX.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://xvaibhavxaryax.github.io/Portfolio/)
 
 
