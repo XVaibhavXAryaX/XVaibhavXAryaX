@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/vaibhav-arya-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-arya-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://xvaibhavxaryax.github.io/Portfolio/)
 
 
